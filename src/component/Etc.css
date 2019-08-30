@@ -1,0 +1,27 @@
+.etcDiv {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4rem;
+}
+
+.etcFont1 {
+    font-size: 5vh;
+    margin-bottom: 3.5rem;
+}
+
+.etcFont2 {
+    font-size: 3vh;
+    padding-bottom: 4rem;
+}
+
+.etcGrid {
+    display: flex;
+}
+
+.etcGrid .row {
+    margin-top: 2rem;
+}
+
+.etcGrid .column {
+    margin-top: 1rem;
+}

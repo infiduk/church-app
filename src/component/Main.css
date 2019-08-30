@@ -1,0 +1,27 @@
+.mainDiv {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4.5rem;
+}
+
+.mainFont1 {
+    font-size: 5vh;
+}
+
+.mainFont2 {
+    font-size: 3vh;
+    padding-bottom: 5rem;
+}
+
+.mainGrid {
+    display: flex;
+    margin-top: 3rem;
+}
+
+.mainGrid .row {
+    margin-top: 2rem;
+}
+
+.mainGrid .column {
+    margin-top: 4rem;
+}
