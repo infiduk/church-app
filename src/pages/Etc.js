@@ -17,21 +17,21 @@ export default class Etc extends Component {
           <Grid.Row stretched>
             <Grid.Column>
               <a href="http://www.jeongeui.com/notice/">
-                <img src={Notice} style={{ width: '60%', height: '60%' }} />
+                <img alt='' src={Notice} style={{ width: '60%', height: '60%' }} />
                 <h4 className="etcFont2">공지 사항</h4>
               </a>
               <a href="http://www.jeongeui.com/service/#_worship">
-                <img src={Ministry} style={{ width: '60%', height: '60%' }} />
+                <img alt='' src={Ministry} style={{ width: '60%', height: '60%' }} />
                 <h4 className="etcFont2">사역 안내</h4>
               </a>
             </Grid.Column>
             <Grid.Column>
               <a href='http://www.jeongeui.com/weekly/'>
-                <img src={Weekly} style={{ width: '60%', height: '60%' }} />
+                <img alt='' src={Weekly} style={{ width: '60%', height: '60%' }} />
                 <h4 className="etcFont2">주보</h4>
               </a>
               <a href="http://www.jeongeui.com/">
-                <img src={Offering} style={{ width: '60%', height: '60%' }} />
+                <img alt='' src={Offering} style={{ width: '60%', height: '60%' }} />
                 <h4 className="etcFont2">정의 헌금</h4>
               </a>
             </Grid.Column>
